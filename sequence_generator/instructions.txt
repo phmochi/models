@@ -1,0 +1,9 @@
+Simply execute script with
+
+    python create_digit_sequence_images.py
+
+Execute script with -h for available parameters
+    
+    python create_digit_sequence_images.py -h
+
+Requires internet to download MNIST dataset. Check requirements.txt for necessary packages.
