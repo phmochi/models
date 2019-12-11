@@ -6,3 +6,6 @@ Case study for mnist in tensorflow. Basic single hidden layer model that achieve
 
 # mnist_numpy
 Neural net in numpy, implementing SGD, l2 regularization, ReLU, xavier/he initialization, early stopping
+
+# Aspect Term Extractor
+An end-to-end implementation of aspect term extraction from data handling and processing to modeling.
